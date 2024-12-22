@@ -1,2 +1,4 @@
 message: I am in a DEV environment
-
+welcome: Welcome to the Java application!
+goodbye: Goodbye!
+messageOfTheDay: Today is a great day for coding. 
